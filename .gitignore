@@ -1,0 +1,5 @@
+.DS_Store
+0922/
+*.pdf
+node_modules/
+.firebase/
